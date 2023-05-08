@@ -6,7 +6,7 @@ module MixPanel
   , DistinctId
   -- Setup
   , mkEnv
-  , Env
+  , Env(..)
   -- mixpanel api calls
   , track
   , alias
